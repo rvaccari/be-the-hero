@@ -31,13 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Extras:
 
 - Main Libs
-  - [Express](https://expressjs.com/pt-br/)
   - [KnexJS](http://knexjs.org/)
-  - [Toast Notification](https://github.com/jossmac/react-toast-notifications)
-- Estilos
-  - [EditorConfig](https://editorconfig.org/)
-  - [ESLint](https://eslint.org/)
-  - [Prettier](https://prettier.io/)
+
 
 ## Projeto
 
